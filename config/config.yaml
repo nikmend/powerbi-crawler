@@ -1,0 +1,10 @@
+powerbi_url: "https://app.powerbi.com/view?r=eyJrIjoiODc4..."
+table_xpath: "//*[@id='pvExplorationHost']/div/div/exploration/div/explore-canvas/div/div[2]/div/div[2]/div[2]/visual-container-repeat/visual-container[3]/transform/div/div[3]/div/div"
+column_names:
+  - "Año"
+  - "Departamento"
+  - "Municipio"
+  - "Tipo"
+  - "Delito"
+  - "Ley"
+  - "Total"
